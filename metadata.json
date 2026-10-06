@@ -1,0 +1,6 @@
+{
+  "name": "Serene",
+  "description": "Mindfulness & daily meditation tracker with customizable meditation timers, guided breathing exercises, ambient sound generator, streak analytics, and mood reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
